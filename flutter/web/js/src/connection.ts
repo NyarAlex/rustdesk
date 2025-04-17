@@ -9,7 +9,7 @@ import { decompress, mapKey, sleep } from "./common";
 
 export const PORT = 21116;
 const HOSTS = [
-  "rs-sg.rustdesk.com",
+  "124.222.66.215",
   "rs-cn.rustdesk.com",
   "rs-us.rustdesk.com",
 ];
